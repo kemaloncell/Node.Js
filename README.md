@@ -6,3 +6,7 @@
 * Task 2
 ![alt text](https://github.com/kemaloncell/Node.Js/blob/main/img/Screenshot_1.png)
 
+* Task 3
+![alt text](https://github.com/kemaloncell/Node.Js/blob/main/img/Screenshot_5.png)
+![alt text](https://github.com/kemaloncell/Node.Js/blob/main/img/Screenshot_6.png)
+
